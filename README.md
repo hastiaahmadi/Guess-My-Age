@@ -15,7 +15,7 @@ CSS
 JavaScript
 
 نحوه ی اجرا:
-1. بر روی لینک دمو {https://guess-my-age-tawny.vercel.app/} کلیک کرده.
+1. بر روی لینک دمو https://guess-my-age-tawny.vercel.app/ کلیک کرده.
 
 مجوز:
 این پروژه تحت لایسنس MIT منتشر شده.
